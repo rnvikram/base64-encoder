@@ -1,2 +1,4 @@
+altair
+pandas
 pybase64
 streamlit
