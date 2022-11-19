@@ -1,5 +1,6 @@
 import streamlit as st
 import base64
+st.set_page_config(page_title="Base64 Encoder")
 
 st.title("Base64 Encoder")
 st.subheader("Free tool base64 encode text online")
