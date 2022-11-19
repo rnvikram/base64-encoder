@@ -7,7 +7,7 @@ components.html("""
 <meta name="google-site-verification" content="NZPyZ5mCaOB88Fdv740bFgdNJa-3abZke9uJnawf7Ic" />
 """)
 
-st.set_page_config(page_title="Base64 Encoder")
+# st.set_page_config(page_title="Base64 Encoder")
 
 st.title("Base64 Encoder")
 st.subheader("Free tool base64 encode text online")
