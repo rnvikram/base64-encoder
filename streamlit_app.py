@@ -2,7 +2,7 @@ import streamlit as st
 import streamlit.components.v1 as components
 import base64
 
-st.set_page_config(page_title="Base64 Encoder")
+st.set_page_config(page_title="Base64 Encode Online")
 
 components.html('<meta name="google-site-verification" content="NZPyZ5mCaOB88Fdv740bFgdNJa-3abZke9uJnawf7Ic" />')
 
