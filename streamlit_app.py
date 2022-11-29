@@ -4,7 +4,7 @@ import base64
 
 st.set_page_config(page_title="Base64 Encode Online")
 
-st.title("Base64 Encoder")
+st.title("Base64 Encoder 1")
 st.subheader("Free tool base64 encode text online")
 
 text_to_encode = st.text_area("Text to encode", value="")
